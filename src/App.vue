@@ -2,7 +2,7 @@
   <el-config-provider namespace="ep">
     <BaseHeader/>
     <div style="display: flex">
-      <BaseSide/>
+      <BaseSide />
       <router-view></router-view>
     </div>
   </el-config-provider>
